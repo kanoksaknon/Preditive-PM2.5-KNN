@@ -1,1 +1,6 @@
-#0101
+#408-1.csv คือ Data ที่จะใช้ในการเทรน
+#ใช้ KNN ในกาารเทรนเนื่องจากเคยลอง model อื่นแล้วค่าที่ได้ไม่ค่อยโอเคร
+
+#ลองดูได้เลยครับ
+
+https://github.com/kanoksaknon/Preditive-PM2.5-KNN/blob/main/408-1.csv
